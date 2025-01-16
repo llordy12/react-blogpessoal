@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar />
       <Home />
-      <Footer />
+      <Footer className="flex flex-col min-h-screen"/>
     </>
   );
 }
